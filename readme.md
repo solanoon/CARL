@@ -1,4 +1,4 @@
-# Code for "Enhancing Reaction Yield Prediction with Condition Aware Relation Learning Framework"
+# Code for "Enhancing Reaction Yield Prediction with Chemical Atom-level Reaction Learning"
 
 In this work, we introduce CARL, a condition-aware relational learning model designed to enhance the accuracy of chemical reaction yield predictions. 
 
