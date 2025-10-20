@@ -1,4 +1,4 @@
-# Code for "Enhancing Reaction Yield Prediction with Chemical Atom-level Reaction Learning"
+# Code for "Improving Reaction Yield Prediction with Chemical Atom-Level Reaction Learning"
 
 In this work, we introduce CARL, a chemical atom-level reaction learning framework designed to enhance the accuracy of chemical reaction yield predictions. 
 
